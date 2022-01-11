@@ -1,3 +1,0 @@
-firstname = input("What is your last name?:")
-lastname = input("What's your last?: ")
-print  (lastname)  +  (firstname)[::-1]
